@@ -23,4 +23,9 @@
     <string name="dijual_oleh">Dijual oleh</string>
     <string name="narenda_wicaksono">Narenda Wicaksono</string>
     <string name="beli">Beli</string>
+    <string name="dummy_photos">string</string>
+    <string name="dummy_value">string</string>
+    <string name="stock">string</string>
+    <string name="specification">string</string>
+    <string name="buy">string</string>
 </resources>

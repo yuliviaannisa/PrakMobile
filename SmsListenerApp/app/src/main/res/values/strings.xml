@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsListenerApp</string>
+    <string name="coming_from">coming from</string>
+    <string name="Annyeong">annyeong</string>
+    <string name="tutup">tutup</string>
+    <string name="ini_aplikasi_sms_receiver">ini aplikasi sms receiver</string>
+</resources>

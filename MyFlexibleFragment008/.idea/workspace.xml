@@ -6,13 +6,34 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3b724db-aa68-4971-aeab-585cbc747b7d" name="Default Changelist" comment="" />
+    <list default="true" id="c3b724db-aa68-4971-aeab-585cbc747b7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/CategoryFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/DetailCategoryFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/OptionDialogFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_detail_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_option_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/java/com/example/a65myintentapp/MoveActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/java/com/example/a65myintentapp/MoveWithDataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/res/layout/activity_move_with_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarVolume008/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyIntentApp008/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarVolume008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarVolume008/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarVolume008/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarVolume008/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp008/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp008/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp008/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="EMVOYHUOU485MJD6" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -32,7 +53,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ioW9dn3kiYbK3ZWR3iXr7mw9Cc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,6 +65,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyIntentApp008" />
   </component>
@@ -138,9 +164,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602679475911" />
-    <state x="46" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1602648407228">
+    <state x="184" y="26" key="SettingsEditor" timestamp="1602757276687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="46" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1602648407228" />
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602757276687" />
+    <state x="46" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1602815825454">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="46" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1602815825454" />
   </component>
 </project>

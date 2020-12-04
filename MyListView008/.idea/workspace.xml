@@ -7,27 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf64ae38-8ffa-4ee7-a664-8b56f90565ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/CategoryFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/DetailCategoryFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/HomeFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/java/com/example/a65myflexiblefragment/OptionDialogFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_category.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_detail_category.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyFlexibleFragment/app/src/main/res/layout/fragment_option_dialog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/java/com/example/a65myintentapp/MoveActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/java/com/example/a65myintentapp/MoveWithDataActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/res/layout/activity_move_with_data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../65MyIntentApp/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BarVolume008/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFlexibleFragment008/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyIntentApp008/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BarVolume008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarVolume008/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BarVolume008/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarVolume008/app/src/main/res/values/dimens.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment008/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment008/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment008/app/src/main/res/values/dimens.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyIntentApp008/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp008/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyIntentApp008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp008/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mylistview008/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mylistview008/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews008/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,9 +159,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="165" y="162" key="chooseDestDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1602818020682" />
-    <state x="46" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1603542811396">
+    <state x="46" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1604629412079">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="46" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1603542811396" />
+    <state x="46" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1604629412079" />
   </component>
 </project>
